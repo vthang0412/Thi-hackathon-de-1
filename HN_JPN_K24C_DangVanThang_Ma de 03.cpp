@@ -151,6 +151,9 @@ int main(){
 			case 11:
 				printf("Thoat chuong trinh.");
 					break;
+		}	default :{
+			printf("Vui long nhap lai tu 1 - 9\n");
+			break;
 		}
 		
 		
